@@ -4,6 +4,7 @@ import java.util.Objects;
 
 public class Razred {
     private int id;
+
     private int profesor_id;
 
     public int getProfesor_id() {
